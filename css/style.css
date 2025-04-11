@@ -1,0 +1,39 @@
+/* :root {
+    --bs-body-bg : #FFE9BA
+} */
+
+body {
+    font-family: 'Caveat', cursive;
+}
+
+body.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+/* .dark-mode .navbar {
+    background-color: #1f1f1f !important;
+}
+
+.dark-mode .nav-link {
+    color: #ffffff !important;
+} */
+
+/* .dark-mode .btn-outline-secondary {
+    border-color: #ffffff;
+    color: #ffffff;
+} */
+
+.btn-outline-secondary {
+    border: none;
+    box-shadow: none;
+}
+
+.navbar {
+    font-size: 25px;
+}
+
+.container-fluid {
+    padding-left: 8rem;
+    padding-right: 8rem;
+}
